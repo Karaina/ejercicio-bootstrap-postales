@@ -1,0 +1,58 @@
+h4 {
+    text-align: center;
+    margin-top: 4em;
+    }
+
+.card{
+    padding: 5px;
+}
+
+.card-group{
+    padding: 1em;
+}
+
+
+h3{
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 22px;
+}
+
+footer{
+    margin-bottom: 1em;
+    margin-top: 3em;
+}
+
+#fondo{
+    background-color: #FF8C69;
+    /*width: 100%;¨*/
+      
+}
+
+#atata{
+    margin-top: 4em;
+    padding-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2em;
+}
+
+#boton{
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 14px;
+}
+
+#email-password{
+    font-family: helvetica;
+    color: white;
+    font-weight: bolder;
+}
+
+#remember{
+    font-family: helvetica;
+    color: white;
+}
